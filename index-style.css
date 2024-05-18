@@ -68,14 +68,6 @@ p{
     float: right;
   }
 
-  /* START OF SECTION */
-section .section-content h1 , h2{
-  color:  white;
-  font-size: 100px;
-  font-family: Arial;
-  text-align: center;
-}
-
 /* END OF SECTION STYLE */
 
   .footer{

@@ -1,5 +1,5 @@
 body{
-    background-image: url("PHOTOS/qualified2.jpg");
+    background-image: url("PHOTOS/cover.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,7 +13,7 @@ h1{
 
 p{
     color: midnightblue;
-    font-size: 50px;
+    font-size: 45px;
     font-family: sans-serif;
     text-align: center;
     line-height: 0%;
@@ -93,4 +93,11 @@ p{
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  #context article {
+    font-size: 30px;
+    font-family: Georgia;
+    text-align: justify;
+    color: aliceblue;
   }
